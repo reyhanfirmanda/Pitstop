@@ -1,0 +1,26 @@
+.form {
+    margin-top: 8em;
+    margin-bottom: 8em;
+}
+
+.btn-primary {
+    background-color: #FCA043;
+    border-color: #FCA043;
+}
+
+.btn-primary:hover {
+    background-color: #E26713;
+    border-color: #E26713;
+}
+
+.warna-footer {
+    color: white;
+}
+
+.nav-link .active {
+    color: #FCA043;
+}
+
+.navbar-brand img{
+    width: 100px;
+}
